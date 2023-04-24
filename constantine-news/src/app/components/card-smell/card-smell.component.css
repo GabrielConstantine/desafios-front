@@ -1,0 +1,34 @@
+.card-smell__small-card{
+  width: 250px;
+  height: 150px;
+  margin-bottom: 15px;
+}
+
+
+.card-smell__content{
+  display: flex;
+  flex-direction: row;
+}
+
+.card-small__img > img {
+  min-width: 200px;
+  margin-right: 20px;
+}
+
+.card-smell__title {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.card-smell__title > h1 {
+  font-size: 35px;
+}
+
+.card-smell__separator{
+  margin-top: 10px;
+}
+
+.card-smell__content-text > p {
+  font-size: 15px;
+}
